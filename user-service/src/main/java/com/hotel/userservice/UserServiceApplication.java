@@ -1,4 +1,4 @@
-package com.example.user_service;
+package com.hotel.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
